@@ -2,7 +2,7 @@
 
 Moon Productions - Helping others with powerful projects!
 
-![Profile Picture](https://raw.githubusercontent.com/JTDMedia/JTDMedia/main/profile_picture.webp)
+![Profile Picture](https://raw.githubusercontent.com/JTDMedia/JTDMedia/main/moon.png)
 
 ## About Me
 
