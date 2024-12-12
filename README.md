@@ -1,8 +1,8 @@
-# Hi there, I'm JTDMedia 👋
+# Hi there, I'm Moon Productions 👋
 
-JustTheDev Media - Helping others with powerful projects!
+Moon Productions - Helping others with powerful projects!
 
-![Profile Picture](https://raw.githubusercontent.com/JTDMedia/JTDMedia/refs/heads/main/holyhell.webp)
+![Profile Picture](https://raw.githubusercontent.com/JTDMedia/JTDMedia/main/profile_picture.webp)
 
 ## About Me
 
@@ -15,7 +15,7 @@ I'm a passionate developer with a focus on **JavaScript** and **Python**. My mis
 
 ## 🔧 Projects
 
-### [JTDBot](https://github.com/JTDMedia/JTDBot)
+### [MoonBot](https://github.com/JTDMedia/JTDBot)
 A powerful Discord bot powered by **discord.js**. It includes features like custom commands, moderation, and much more!
 
 ## 💬 Let's Connect
@@ -27,3 +27,4 @@ Discord: justthedev_
 ---
 
 Thanks for stopping by! 😄
+
